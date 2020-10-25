@@ -1,0 +1,4 @@
+Este é um exemplo de um ficheiro de texte file3
+
+
+este commit tem como objetivo de atualizar o file3.txt
